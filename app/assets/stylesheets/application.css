@@ -30,7 +30,7 @@
   }
 header, footer, article, nav, div {
   padding: 1.2em;
-  background: yellowgreen;
+  background: #C8C8C8;
   }
 #pageHeader {
   grid-area: header;
